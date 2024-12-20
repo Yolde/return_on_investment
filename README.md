@@ -1,1 +1,2 @@
 # return_on_investment
+A python-based tool to automate the calculation of Return on Investment (ROI) for various software engineering tools. The tool takes user-defined inputs, including cost, usage metrics, and productivity enhancements, to generate detailed ROI projections. This solution streamlines decision-making by providing data-driven insights into the financial and operational benefits of tool adoption, helping stakeholders optimize resource allocation.
